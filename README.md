@@ -2,7 +2,7 @@
  Thanks for support
 Simple Quiz App
 This is a simple quiz application built using HTML, CSS, and JavaScript. The app allows users to answer multiple-choice questions and displays their score at the end of the quiz.
-
+Disclaimer : This project is made with the help of Tutorial and I add some features and changed its User interface also take help of Ai to solve only error in projects.
 Features
 Interactive Questions: Questions with multiple-choice answers.
 Dynamic Feedback: Correct answers are highlighted in green, and incorrect ones in red.
